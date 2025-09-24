@@ -1,5 +1,4 @@
-# Elevate-Labs-Internship-Task2_Data_Visualization_and_Storytelling
-
+# Elevate-Labs-Internship
 # Task 2: Data Visualization and Storytelling
 
 **Objective**
